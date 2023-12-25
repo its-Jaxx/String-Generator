@@ -14,7 +14,7 @@
 ## How to run this:
 - Open the terminal (Command prompt/CMD)
 - Move to the directory where the file is located
-- Type either ```bash py string_gen.py``` or ```bash python3 string_gen.py```
+- Type either ```py string_gen.py``` or ```python3 string_gen.py```
 and press enter to run.<br>
 - You can also run the [run.bat](https://github.com/its-Jaxx/String-Generator/blob/main/run.bat) file included<br>
 [What is a bat file?](https://en.wikipedia.org/wiki/Batch_file)
